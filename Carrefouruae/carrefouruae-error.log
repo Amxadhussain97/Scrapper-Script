@@ -1,0 +1,2 @@
+Error: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+TypeError: Assignment to constant variable.
